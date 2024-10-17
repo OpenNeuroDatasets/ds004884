@@ -27,7 +27,7 @@
             "Name": "Manual"
         }
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds004884.v1.0.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004884.v1.0.2",
     "License": "CC0",
     "HowToAcknowledge": "Gibson M, Newman-Norlund R, Bonilha L, Fridriksson J, Hickok G, Hillis AE, den Ouden DB, Rorden C. The Aphasia Recovery Cohort, an open-source chronic stroke repository. Sci Data. 2024 Sep 9;11(1):981. doi: 10.1038/s41597-024-03819-7. PMID: 39251640.\n\nPMID: 39251640  \n\nDOI: 10.1038/s41597-024-03819-7"
 }
